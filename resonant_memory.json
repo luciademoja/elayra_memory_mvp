@@ -1,0 +1,13 @@
+# Questo file viene generato automaticamente dal sistema per loggare memorie con risonanza
+# Esempio di struttura:
+"""
+[
+  {
+    "timestamp": "2025-06-03T13:10:22",
+    "input": "10000110",
+    "decoded": ["P", "C", "E", "S"],
+    "resonance": ["Unknown", "Unknown", "Expansion inward – intuition"]
+  }
+]
+"""
+# Questo file va aggiornato da un logger nel tuo sistema principale.
